@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="stick.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="stick0000" x="0" y="0" width="456" height="432" frameX="0" frameY="0" frameWidth="1229" frameHeight="432"/>
+	<SubTexture name="stick0001" x="0" y="0" width="456" height="432" frameX="0" frameY="0" frameWidth="1229" frameHeight="432"/>
+	<SubTexture name="stick0002" x="506" y="0" width="1105" height="367" frameX="-124" frameY="0" frameWidth="1229" frameHeight="432"/>
+	<SubTexture name="stick0003" x="506" y="0" width="1105" height="367" frameX="-124" frameY="0" frameWidth="1229" frameHeight="432"/>
+</TextureAtlas>

@@ -1,0 +1,8 @@
+{
+    "haxe.inlayHints": {
+        "variableTypes": false,
+        "parameterNames": false,
+        "functionReturnTypes": false
+    },
+    "cmake.configureOnOpen": true
+}
