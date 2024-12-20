@@ -1,1 +1,15 @@
-yo! this is a news letter test, dont tweak! again! this is a test!
+------------
+THE MF NEWS!
+------------
+
+Testing! Testing! - 12/19/24
+
+You're probably viewing this through the repository I'm using to test this, but that's okay; I appreciate people digging for cool stuff!
+
+So far, the mods development has been going okay. We're making progress but a lot of it is just me (SquidBowl).. I hope things change later!
+
+This is mainly a test for if things can scroll in the news menu, as that's something I've never really done before... lol. 
+
+The mod should be releasing sometime Spring 2025; Originally I had my birthday or sometime early Winter in mind but ehh things changed.
+
+thanks for reading, good-bye!
