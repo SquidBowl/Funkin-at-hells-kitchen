@@ -1,8 +1,6 @@
 ------------
-THE MF NEWS!
-------------
-
 Testing! Testing! - 12/19/24
+------------
 
 You're probably viewing this through the repository I'm using to test this, but that's okay; I appreciate people digging for cool stuff!
 
